@@ -48,7 +48,7 @@ public class DoctorService {
 			Date dt=new Date(22,7,25);
 			app.setAppointment_date(dt); 
 			app.setDoctor_id(id);
-			app.setPatient_name("jeru");
+			app.setPatient_name("tamilarasan");
 			app.setFees_collected(i*500);
 			dto.addAppointment(app);
 			

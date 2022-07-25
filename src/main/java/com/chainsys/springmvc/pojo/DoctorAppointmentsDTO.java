@@ -1,5 +1,4 @@
 package com.chainsys.springmvc.pojo;
-
 import java.util.ArrayList;
 import java.util.List;
 
